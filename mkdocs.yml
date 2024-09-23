@@ -1,0 +1,13 @@
+site_name: HIS_wiki_demo
+site_url: https://B1str0nax.github.io/mkdocs-demo1/
+theme:
+  name: material
+
+site_author: Alexandr Sergunin
+copyright: Alexandr Sergunin, HIS, 2024
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
